@@ -1,0 +1,205 @@
+[
+    [
+        "C:\\Naresh\\Work\\Demo\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Naresh\\Work\\Demo\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548255608171,
+            "changeTime": 1548255608171,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Naresh\\Work\\Demo\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Naresh\\Work\\Demo\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548255608171,
+            "changeTime": 1548255608171,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Naresh\\Work\\Demo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Naresh\\Work\\Demo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548256609026,
+            "changeTime": 1548256609026,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548255608171,
+            "changeTime": 1548255608171,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Naresh\\Work\\Demo",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Naresh\\Work\\Demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548256430310,
+            "changeTime": 1548256430310,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\objects\\Demo__c\\Demo__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\objects\\Demo__c\\Demo__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2005,
+            "modifiedTime": 1548256609013,
+            "changeTime": 1548256609013,
+            "contentHash": "1e061e0ad65241e0b19727b3c7459472f5b42498"
+        }
+    ],
+    [
+        "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\layouts\\Demo__c-Demo Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\layouts\\Demo__c-Demo Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1548256609018,
+            "changeTime": 1548256609018,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18281,
+            "modifiedTime": 1548256609037,
+            "changeTime": 1548256609037,
+            "contentHash": "00261aebb377e8b2a74c2a194c2c4c89093f6f13"
+        }
+    ],
+    [
+        "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4415,
+            "modifiedTime": 1548256609041,
+            "changeTime": 1548256609041,
+            "contentHash": "15f8f7028a1976e83d1f44aa0398fb271f4af265"
+        }
+    ],
+    [
+        "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4753,
+            "modifiedTime": 1548256609046,
+            "changeTime": 1548256609046,
+            "contentHash": "a8b31aa98bd4c35fdf0118fce42c35b5ca90cf2e"
+        }
+    ],
+    [
+        "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4415,
+            "modifiedTime": 1548256609051,
+            "changeTime": 1548256609051,
+            "contentHash": "15f8f7028a1976e83d1f44aa0398fb271f4af265"
+        }
+    ],
+    [
+        "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\objects\\Demo__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\objects\\Demo__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548256609011,
+            "changeTime": 1548256609011,
+            "contentHash": "5d523a60d1ae768bfd0e7a81054bd5018250c5b8"
+        }
+    ],
+    [
+        "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548256609009,
+            "changeTime": 1548256609009,
+            "contentHash": "a4a3746fddd0ed8c02ec96767c143a3b677a50a4"
+        }
+    ],
+    [
+        "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548256609017,
+            "changeTime": 1548256609017,
+            "contentHash": "5bf8ffc07bd96c6fa7b1e1ff2a3b754fa598b7e3"
+        }
+    ],
+    [
+        "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Naresh\\Work\\Demo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548256609050,
+            "changeTime": 1548256609050,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
